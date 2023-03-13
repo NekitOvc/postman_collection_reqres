@@ -1,4 +1,4 @@
-# postman_collection_reqres
+# postman_pytest_reqres
 
 Тестирование API с помощью Postman и Python.
 
